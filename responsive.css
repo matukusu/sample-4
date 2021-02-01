@@ -1,0 +1,12 @@
+@media (max-width: 800px){
+	.main,.side{
+		clear: both;
+		width: 100%;
+	}
+	.h-list{
+		display: none; 
+	}
+	.menu-icon{
+		display: block;
+	}
+}
